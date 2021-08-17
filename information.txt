@@ -6,4 +6,11 @@ Github repo: https://github.com/WineBartender/Hiddenmenu
 Steam account: https://steamcommunity.com/id/WineBartender/
 Discord account: Bartender #0531
 
+In-progress Features
+    -Different branchs for different impersonations, ex: Schoology, Mobymax, etc
+    -Easy to add games saved locally minimally
+
+Features
+    -None to report yet, just starting developing
+    
 Adding more information on adding games and such later when the menu is more complete
