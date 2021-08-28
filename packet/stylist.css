@@ -1,0 +1,17 @@
+html{ background-image: url(pvg/clouds.jpg); }
+.nav-content{ position: absolute; width: 224px; height: 700px; border-right: none; background-color: transparent; left: 15px; transition: left .2s linear; }
+    .win95{ background: silver; 
+        border: solid;
+        border-width: 2px;
+        border-bottom-color: #424242;
+        border-right-color: #424242;
+        border-left-color: white;
+        border-top-color: white;
+    color: #212529;}
+.card-header{ background: -webkit-linear-gradient(left,#08216b,#a5cef7); color: white;
+    padding-top: 2px;
+    padding-bottom: 1px;
+    text-align: left;}
+.logo{ font-size: 18px; text-align: center; line-height: 30px; }
+.winlang{ font-family: sans-serif; }
+*, ::after, ::before{ box-sizing: border-box; }
