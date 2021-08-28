@@ -1,5 +1,5 @@
 html{ background-image: url(pvg/clouds.jpg); }
-.nav-content{ position: absolute; width: 224px; height: 700px; border-right: none; background-color: transparent; left: 15px; transition: left .2s linear; }
+.nav-content{ position: absolute; width: 224px; height: 200px; border-right: none; background-color: transparent; left: 15px; transition: left .2s linear; }
     .win95{ background: silver; 
         border: solid;
         border-width: 2px;
@@ -8,21 +8,23 @@ html{ background-image: url(pvg/clouds.jpg); }
         border-left-color: white;
         border-top-color: white;
     color: #212529;}
-.card-header{ background: -webkit-linear-gradient(left,#08216b,#a5cef7); color: white;
-    padding-top: 2px;
-    padding-bottom: 1px;
+.random-game{ position: absolute; width: 224px; height: 200px; border-right: none; background-color: transparent; left: 15px; transition: left .2s linear; }
+.card-header{ background-color: #08216b; color: white; height: 20px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 2px;
+    margin-right: 2px;
     text-align: left;}
-.logo{ font-size: 18px; text-align: center; line-height: 30px; }
-.winlang{ font-family: sans-serif; }
+.logo{ font-size: 18px; text-align: left; line-height: 20px; }
+.winlang{ font-family: MS-sans-serif; font-size: smaller; }
 *, ::after, ::before{ box-sizing: border-box; }
-.divider{ list-style: none; padding: 10px 0px;}
-.tab{ height: 56px; line-height: 55px; }
-.href{ font-weight: 700%; color:white;
-    border-top: 1px;
-    padding-left: 50px;
-    width: 174px;
-    height: 55px;
-    }
-.icon{ padding-left: 16px; width: 12px; height: 28px; }
+.winspace{ padding-left: 5px; }
 
-    .dashboard{ background-image: url(pvg/mircosoft/accessibility_contrast.png); background-size: cover;}
+.Menu{ background-image: url(pvg/mircosoft/accessibility_contrast.png); background-size: cover;
+    width: 23px;
+    height: 18px;
+    position: absolute;
+    left: 3px;
+    top: 4px;
+    }
+.labelspace{ padding-left: 25px; }
