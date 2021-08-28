@@ -15,3 +15,14 @@ html{ background-image: url(pvg/clouds.jpg); }
 .logo{ font-size: 18px; text-align: center; line-height: 30px; }
 .winlang{ font-family: sans-serif; }
 *, ::after, ::before{ box-sizing: border-box; }
+.divider{ list-style: none; padding: 10px 0px;}
+.tab{ height: 56px; line-height: 55px; }
+.href{ font-weight: 700%; color:white;
+    border-top: 1px;
+    padding-left: 50px;
+    width: 174px;
+    height: 55px;
+    }
+.icon{ padding-left: 16px; width: 12px; height: 28px; }
+
+    .dashboard{ background-image: url(pvg/mircosoft/accessibility_contrast.png); background-size: cover;}
